@@ -1,2 +1,2 @@
-# lesson-plan-1
+# Lesson Plan 1
 Humidity
